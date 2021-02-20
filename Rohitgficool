@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+using std::cin;
+int main() {
+int pc;
+cout <<"how much pcs do you have\n";
+cin >> pc;
+cout <<"you have " <<pc <<"pcs";
+return 0;
+}
